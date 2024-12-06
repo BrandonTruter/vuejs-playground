@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "./node_modules/.bin/env-cmd -- npx nodemon --exec npx babel-node src/server.js"
+    "dev": "./node_modules/.bin/env-cmd -- npx nodemon --exec npx babel-node src/server.js --ignore client"
   },
   "keywords": [],
   "author": "",
