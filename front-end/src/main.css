@@ -33,7 +33,7 @@ h1 {
   text-align: right;
 }
 
-.checkout-button {
+.checkout-button, .grey-button {
   width: 100%;
 }
 
